@@ -24,7 +24,7 @@ sudo pacman -S gcc make cmake ncurses networkmanager
 ### Ubuntu/Debian
 
 ```bash
-sudo apt install -S build-essential cmake libncurses5-dev network-manager  # make and gcc are part of build-essential
+sudo apt install build-essential cmake libncurses5-dev network-manager  # make and gcc are part of build-essential
 ```
 
 Enable and start network manager if it's not running already
