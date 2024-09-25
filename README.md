@@ -2,6 +2,8 @@
 
 Just a small ncurses wrapper around nmcli, written in c++
 
+![image](https://github.com/user-attachments/assets/1528f8ee-24ba-4079-b082-bee4bbb8d249)
+
 
 ## Dependencies
 
