@@ -46,8 +46,15 @@ sudo make install
 ## Run
 
 ```bash
-nmcurse
+./nmcurse
 ```
+
+## AUR
+
+```bash
+yay -S nmcurse-git
+```
+
 
 ------
 
